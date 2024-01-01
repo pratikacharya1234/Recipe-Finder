@@ -127,7 +127,6 @@ a {
   transition: background-color 0.3s ease;
 }
 
-/* Media Query for screens up to 720px wide (typical mobile devices) */
 @media only screen and (max-width: 720px) {
   header {
     padding: 15px;
